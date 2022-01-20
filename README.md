@@ -56,3 +56,6 @@ how to use this:
         python manage.py createsuperuser
     K. make sure everything is fine:
         python manage.py runserver
+        open your browser and go to http://127.0.0.1:8000/accounts/
+        it should show USER PANEL in blue
+        showing user panel means your urls and templates are ok, and showing in blue means your static files are ok.
