@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/django_boilerlate.iml" filepath="$PROJECT_DIR$/.idea/django_boilerlate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/real_state.iml" filepath="$PROJECT_DIR$/.idea/real_state.iml" />
     </modules>
   </component>
 </project>
