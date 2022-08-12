@@ -30,7 +30,7 @@ installed accounts app, so you can edit your user model anytime you need in your
 
 static and media files already prepared both in urls.py and settings.py.
     you need to create media directory in the root. the templates directory already created.
-    the static directory is placed in the django_boilerplate directory. you can put your static data in there, like bootstrap, style and ... .
+    the static directory is placed in the config directory. you can put your static data in there, like bootstrap, style and ... .
     
 
 the templates structured the way I like it but you can change that if you don't.
@@ -38,7 +38,7 @@ the templates structured the way I like it but you can change that if you don't.
 
 how to use this:
     A. clone the repository
-        git clone https://github.com/masoodshams/django_boilerplate.git
+        git clone https://github.com/masoodshams/config.git
     B. change project name to anything you want to make. use find and replace and change the name in all of you files (about 15 times in 9 files including readme.).
     C. create your own virtual environment.
         python3 -m venv venv
