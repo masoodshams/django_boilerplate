@@ -39,7 +39,7 @@ the templates structured the way I like it but you can change that if you don't.
 how to use this:
     A. clone the repository
         git clone https://github.com/masoodshams/django_boilerplate.git
-    B. change project name to anything you want to make. use find and replace and change the name in all of you files (about 15 times in 9 files including readme.).
+    B. change project Directory's name to anything you want to make.
     C. create your own virtual environment.
         python3 -m venv venv
     D. activate your venv.
